@@ -1,0 +1,11 @@
+Latte - 60
+Makiato - 50
+Americano - 40
+Esspreso - 100
+Tea Gita - 20
+
+Lagman - 300
+Samsa - 150
+Shurpa - 200
+Plov - 350
+
